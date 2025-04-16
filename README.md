@@ -5,6 +5,7 @@ This repository contains resources for ou paper **"*D-GEN*: Automatically Genera
 ## Overview
 
 D-GEN is the first open-source Large Language Model (LLM) for distractor generation.  
+
 We evaluate the quality of distractors via **Ranking Alignment Test** and **Entropy Analysis**.
 
 ## Model and Dataset
