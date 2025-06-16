@@ -1,6 +1,7 @@
 # *D-GEN*: Distractor Generation for LLM Evaluations
 
 This repository contains resources for our paper **"*D-GEN*: Automatically Generating Distractors for Reliable LLM Evaluation"**.
+
 The paper is accepted to ACL 2025 Findings. 
 
 ## Overview
